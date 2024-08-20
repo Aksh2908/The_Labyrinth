@@ -4,7 +4,7 @@ but it's expected to function properly within the VS Code environment. */
 #include <stdlib.h>
 #include <time.h>
 #include <conio.h>
-#include "playerMovement.h" 
+#include "Laby.h" 
 #define Maze_Size 550
 #define Maze_width 50
 
